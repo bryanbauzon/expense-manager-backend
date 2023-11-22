@@ -1,7 +1,7 @@
 # Expense Manager Backend
 ``` bash
 # Clone the Repository
-git install
+npm install
 # to start the server
 npm start
 ```
